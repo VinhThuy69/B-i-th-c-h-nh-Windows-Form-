@@ -1,0 +1,14 @@
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.exe.config
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.exe
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.pdb
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai1.resources
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmChinh.resources
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.Properties.Resources.resources
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.exe
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.pdb
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai2.resources
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai3.resources
+C:\Users\PC602\source\repos\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai4.resources
