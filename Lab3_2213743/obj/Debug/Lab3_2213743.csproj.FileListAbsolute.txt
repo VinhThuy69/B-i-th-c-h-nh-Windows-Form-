@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\Lab3_2213743\bin\Debug\Lab3_2213743.exe.config
+C:\Users\PC602\source\repos\Lab3_2213743\bin\Debug\Lab3_2213743.exe
+C:\Users\PC602\source\repos\Lab3_2213743\bin\Debug\Lab3_2213743.pdb
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.Form1.resources
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.Properties.Resources.resources
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.exe
+C:\Users\PC602\source\repos\Lab3_2213743\obj\Debug\Lab3_2213743.pdb
